@@ -2,10 +2,11 @@
 *.ipr
 *.iml
 *.iws
-target/
+**/target/
 *.jar
 !.mvn/wrapper/*
 .settings/
 .project
 .classpath
 *.dat
+**/.DS_Store
