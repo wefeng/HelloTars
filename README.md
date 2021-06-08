@@ -1,2 +1,2 @@
-# HelloTars dev
+# HelloTars 
 Only for Tars Java beginner showcase
